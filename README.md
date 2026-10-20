@@ -9,7 +9,7 @@ netlify dev   # http://localhost:8888
 ```
 Set `STRIPE_SECRET_KEY` (and optionally `SITE_URL`) to turn on checkout.
 
-## Roadmap
+## Features
 - Real customer reviews
 - Inventory and stock tracking
 - Order history and Stripe webhooks
